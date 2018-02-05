@@ -9,5 +9,5 @@ This simple Bot is integrated with LUIS (https://www.luis.ai/), a machine learni
 * Use of natural language to talk with the bot. It uses LUIS to understand questions about currency quote, greetings and about him.  Obs: this feature is disabled, to enable it, check the MessagesController in the POST method.
 * The bot has also a feature to simulate a pizzeria, giving pre-defined options to the client and also accepting synonyms for the options.
 
-
-
+![Screenshot](maratona_bots_1.PNG)
+![Screenshot](maratona_bots_2.PNG)
